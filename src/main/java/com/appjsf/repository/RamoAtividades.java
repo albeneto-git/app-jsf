@@ -1,4 +1,4 @@
-package com.algaworks.erp.repository;
+package com.appjsf.repository;
 
 import java.io.Serializable;
 import java.util.List;
