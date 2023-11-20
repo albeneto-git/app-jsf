@@ -34,7 +34,7 @@ public class CamadaPersistencia {
         empresa.setNomeFantasia("João da Silva");
         empresa.setCnpj("41.952.519/0001-57");
         empresa.setRazaoSocial("João da Silva 41952519000157");
-        empresa.setTipoEmpresa(TipoEmpesa.MEI);
+        empresa.setTipo(TipoEmpesa.MEI);
         empresa.setDataFundacao(new Date());
         empresa.setRamoAtividade(listaDeRamoAtividades.get(0));
 

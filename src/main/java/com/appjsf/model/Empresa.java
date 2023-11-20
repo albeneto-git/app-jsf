@@ -75,7 +75,7 @@ public class Empresa implements Serializable {
 		return ramoAtividade;
 	}
 	
-	public TipoEmpesa getTipoEmpesa() {
+	public TipoEmpesa getTipo() {
 		return tipo;
 	}
 	
@@ -103,7 +103,7 @@ public class Empresa implements Serializable {
 		this.ramoAtividade = ramoAtividade;
 	}
 
-	public void setTipoEmpresa(TipoEmpesa tipo) {
+	public void setTipo(TipoEmpesa tipo) {
 		this.tipo = tipo;
 	}
 
