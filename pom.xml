@@ -5,6 +5,7 @@
 	<groupId>com.appjsf</groupId>
 	<artifactId>app-jsf</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>App Jsf</name>
 	<description>Estudo de jsf com primefaces e hibernate</description>
 
